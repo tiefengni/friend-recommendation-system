@@ -1,0 +1,12 @@
+Social Network:
+Alice -> [Bob, David]
+Bob -> [Alice, Charlie, Emma]
+Charlie -> [Bob]
+David -> [Alice, Frank]
+Emma -> [Bob]
+Frank -> [David]
+
+Friend recommendations for Alice:
+Charlie
+Emma
+Frank
